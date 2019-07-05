@@ -21,7 +21,10 @@ umowy.
 ***
 Zleceniodawca 
 ***
-<center>duoa</center>
+
+<p style="text-align: right;">prawa</p>
+
+<p style="text-align: center;">srodek</p>
 
 
 Wykonawca
